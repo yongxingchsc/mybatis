@@ -1,2 +1,2 @@
-# mybatisgenetate
-mybatis代码自动生成工程
+#mybatisgenetate
+MyBatis-Generator逆向工程自动生产代码框架
